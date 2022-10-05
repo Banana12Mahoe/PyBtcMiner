@@ -1,2 +1,3 @@
 # PyBtcMiner
- btc miner made in python
+
+python bitcoin miner, change the bitcoin adress in pybtcminer.py to your own
